@@ -29,11 +29,7 @@ After `cloning` the assignment you should make two commits:
 
 ---
 
-<<<<<<< HEAD
 Your name: Aanya Sikka Date: 07-25-2025
-=======
-Your name: <Aanya Sikka> Date: <07-25-2025>
->>>>>>> 099f9cc38404ff85590f0e14fcb1d75147fcb1d9
 
 ---
 
